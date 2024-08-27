@@ -1,9 +1,7 @@
 Eine Überprüfung der hier Händischen Rechnung findet sich in der entsprechenden Matlab Datei
 ## Allgemeines Modell in Polarkoordinaten
 Über Modellbildung durch $\Delta\to \partial$ findet man als Dynamik für das System die Gleichung in Polarkoordinaten
-$$
-\dot{r}=\cos(\phi-\theta)u_{1}
-$$
+$$\dot{r}=\cos(\phi-\theta)u_{1}$$
 $$
 \dot{\theta}=\sin(\phi-\theta) \frac{u_{1}}{r}
 $$
